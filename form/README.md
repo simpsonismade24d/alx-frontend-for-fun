@@ -1,7 +1,7 @@
 ﻿# Forms
 
+ ![logo-white](https://github.com/simpsonismade24d/alx-frontend-for-fun/assets/111156398/7d4c71e5-6837-46ce-b798-3bf5a1802585)
  
-![logo-white](https://github.com/simpsonismade24d/alx-frontend-for-fun/assets/111156398/7d4c71e5-6837-46ce-b798-3bf5a1802585)
 
 # Resources
 
