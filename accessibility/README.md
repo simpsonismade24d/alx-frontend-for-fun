@@ -12,7 +12,7 @@ Look at this concept:
 
 . [Accessibility is not a feature. — Ethan Marcotte](https://intranet.alxswe.com/rltoken/BAbrxnpYJ8zELBc6g3Hcsg)
 
-. [How to Meet WCAG ](Quickref Reference](https://intranet.alxswe.com/rltoken/zHXl50r6h6CtXPTizdoD6g)
+. [How to Meet WCAG](Quickref Reference](https://intranet.alxswe.com/rltoken/zHXl50r6h6CtXPTizdoD6g)
 
 . [Web Accessibility Guidebook for Developers](https://intranet.alxswe.com/rltoken/nMtrdVLVeJMKA0A6lGihVA)
 
@@ -22,7 +22,7 @@ Look at this concept:
 
 . [Building Pylon-Free Web Pages: An Intro to Web Accessibility](https://intranet.alxswe.com/rltoken/OmQR7UuCJPx5_p4ZX8fWgQ)
 
-. [I Threw Away my Mouse - 24 Accessibility(https://intranet.alxswe.com/rltoken/QNxS6kzbjGKk0DQqdN4Q6A)
+. [I Threw Away my Mouse - 24 Accessibility](https://intranet.alxswe.com/rltoken/QNxS6kzbjGKk0DQqdN4Q6A)
 
 . [I Used a Switch Control for a Day - 24 Accessibility](https://intranet.alxswe.com/rltoken/4WS3uYbRtXoSomvRfDcf7w)
 
