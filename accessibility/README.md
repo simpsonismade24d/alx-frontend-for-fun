@@ -12,7 +12,7 @@ Look at this concept:
 
 . [Accessibility is not a feature. — Ethan Marcotte](https://intranet.alxswe.com/rltoken/BAbrxnpYJ8zELBc6g3Hcsg)
 
-. [How to Meet WCAG](Quickref Reference](https://intranet.alxswe.com/rltoken/zHXl50r6h6CtXPTizdoD6g)
+. [How to Meet WCAG Quickref Reference](https://intranet.alxswe.com/rltoken/zHXl50r6h6CtXPTizdoD6g)
 
 . [Web Accessibility Guidebook for Developers](https://intranet.alxswe.com/rltoken/nMtrdVLVeJMKA0A6lGihVA)
 
